@@ -1,2 +1,1 @@
-# cloudmanagement-project
-spotify data-engineering
+# spotify_azure_project
