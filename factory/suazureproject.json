@@ -1,0 +1,9 @@
+{
+	"name": "suazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de34d3ae-a93c-4a63-9184-979a6373ee6a",
+		"tenantId": "4278a402-1a9e-4eb9-8414-ffb55a5fcf1e"
+	}
+}
