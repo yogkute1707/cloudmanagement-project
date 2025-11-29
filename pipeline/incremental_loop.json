@@ -323,7 +323,8 @@
 		],
 		"parameters": {
 			"loop_input": {
-				"type": "array"
+				"type": "array",
+				"defaultValue": []
 			}
 		},
 		"variables": {
